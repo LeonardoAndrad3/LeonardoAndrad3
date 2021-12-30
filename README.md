@@ -15,27 +15,35 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeonardoAndrad3&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoAndrad3&layout=compact&langs_count=7&theme=gotham"/>
 </div>
-
+</a>
   
   
 <div style="display: inline_block"><br>
 <p>Linguagens:</p>
+<a href="https://github.com/LeonardoAndrad3">
 <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
 <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
 <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 </br></br>
+</a>
 <p>Banco de dados:</p>
+<a href="https://github.com/LeonardoAndrad3">
 <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" />
 </br></br>
+</a>
 <p>Ferramentas:</p>
+<a href="https://github.com/LeonardoAndrad3">
 <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" />
 </br></br>
+</a>
 <p>Frameworks:</p>
+<a href="https://github.com/LeonardoAndrad3">
 <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" />
 </div>
+</a>
 
 #
   
