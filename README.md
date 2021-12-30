@@ -3,7 +3,7 @@
 - 🧑🏻‍🎓 Estudante
 - 🌱 Estudando Java e PHP
 - 📫 leonardoxcontato@gmail.com
-- ⚙️ Projetos: 
+- ⚙️ Projetos: </br>
   https://leobiriba.herokuapp.com/ </br>
   https://ivanacharis.herokuapp.com/ </br>
   https://acervofatec-etec.herokuapp.com/
