@@ -4,8 +4,8 @@
 - 🌱 Estudando Java e PHP
 - 📫 leonardoxcontato@gmail.com
 - ⚙️ Projetos: 
-  https://leobiriba.herokuapp.com/ #
-  https://ivanacharis.herokuapp.com/ #
+  https://leobiriba.herokuapp.com/ </br>
+  https://ivanacharis.herokuapp.com/ </br>
   https://acervofatec-etec.herokuapp.com/
 
 ##
