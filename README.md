@@ -42,9 +42,6 @@
 <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" />
 </br></br>
 </a>
-<p>Frameworks:</p>
-<a href="https://github.com/LeonardoAndrad3">
-<img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" />
 </div>
 </a>
 
