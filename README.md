@@ -1,7 +1,7 @@
 ### Bem-vindo! Eu sou o Leonardo Andrade 💫
 
 - 🧑🏻‍🎓 Estudante
-- 🌱 Estudando Java e PHP
+- 🌱 Estudando Java
 - 📫 leonardoxcontato@gmail.com
 - 📱 11 9 6012-2205
 - ⚙️ Projetos: </br>
