@@ -5,12 +5,12 @@
 - 🌱 Estudando Java
 - 📫 leonardoxcontato@gmail.com
 - 📱 11 9 6012-2205
-  ⚙️ Projetos: </br>
+  <!--⚙️ Projetos: </br>
   https://leobiriba.herokuapp.com/ </br>
   https://ivanacharis.herokuapp.com/ </br>
   https://testemoyeto.herokuapp.com/teste</br>
   https://acervofatec-etec.herokuapp.com/</br>
-  https://leonardodsmovie.netlify.app/
+  https://leonardodsmovie.netlify.app/-->
 
 ##
 
