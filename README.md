@@ -2,15 +2,14 @@
 
 - 🧑🏻‍🎓 Estudante de Ciência da Computação na Cruzeiro do SUl
 - 🧑🏻‍🎓 Técnico em Desenvolvimento de Sistema, ETEC da Zona Leste
-- 🌱 Estudando Java
+- 🌱 Estudante Alura
 - 📫 leonardoxcontato@gmail.com
 - 📱 11 9 6012-2205
-  <!--⚙️ Projetos: </br>
-  https://leobiriba.herokuapp.com/ </br>
-  https://ivanacharis.herokuapp.com/ </br>
-  https://testemoyeto.herokuapp.com/teste</br>
-  https://acervofatec-etec.herokuapp.com/</br>
-  https://leonardodsmovie.netlify.app/ -->
+  ⚙️ Projetos: </br>
+
+  https://alura-front-end-eosin.vercel.app/</br>
+  https://alura-front-end-crwd.vercel.app/
+
 
 ##
 
