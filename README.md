@@ -5,6 +5,7 @@
 - 🌱 Estudante Alura
 - 📫 leonardoxcontato@gmail.com
 - 📱 11 9 6012-2205
+  </br>
   ⚙️ Projetos: </br>
 
   https://alura-front-end-eosin.vercel.app/</br>
