@@ -5,7 +5,7 @@
 - 🌱 Estudante Alura
 - 📫 leonardoxcontato@gmail.com
 - 📱 11 9 6012-2205
-- 👦🏻 Portfolio:
+- 👦🏻 Portfolio: </br>
   https://leonardoandrad3.github.io/Portfolio/
 - ⚙️ Projetos: </br>
 
