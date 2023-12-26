@@ -12,7 +12,8 @@
 - ⚙️ Projetos: </br>
 
   https://alura-front-end-eosin.vercel.app/</br>
-  https://alura-front-end-crwd.vercel.app/
+  https://alura-front-end-crwd.vercel.app/</br>
+  https://alura-front-end-51pp-4eghcv159-leonardoandrad3.vercel.app/
 
 
 
