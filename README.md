@@ -1,8 +1,7 @@
 ### Bem-vindo! Eu sou o Leonardo Andrade 💫
 
-- 🧑🏻‍🎓 Estudante de Ciência da Computação na Cruzeiro do SUl
+- 🧑🏻‍🎓 Cursando Ciência da Computação na Cruzeiro do SUl
 - 🧑🏻‍🎓 Técnico em Desenvolvimento de Sistema, ETEC da Zona Leste
-- 🌱 Estudante Alura
 - 📫 leonardoxcontato@gmail.com
 - 📱 11 9 6012-2205
 - 👦🏻 Portfolio:
